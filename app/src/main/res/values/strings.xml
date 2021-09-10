@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecreationPlaceProject</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="deskripsi_tempat">Deskripsi tempat</string>
+    <string name="check">Check</string>
+    <string name="share">Share</string>
+    <string name="tes_deskripsi">Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi anggotanya dinamakan menurut empat pulau terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta. Asal mula nama Raja Ampat menurut mitos masyarakat setempat berasal dari seorang wanita yang menemukan tujuh telur. Empat butir di antaranya menetas menjadi empat orang pangeran yang berpisah dan masing-masing menjadi raja yang berkuasa di Waigeo, Salawati, Misool Timur dan Misool Barat. Sementara itu, tiga butir telur lainnya menjadi hantu, seorang wanita, dan sebuah batu. Dalam perjalanan sejarah, wilayah Raja Ampat telah lama dihuni oleh masyarakat bangsawan dan menerapkan sistem adat Maluku. Dalam sistem ini, masyarakat sekumpulan manusia. Tiap desa dipimpin oleh seorang raja. Semenjak berdirinya lima kesultanan muslim di Maluku, Raja Ampat menjadi bagian klaim dari Kesultanan Tidore. Setelah Kesultanan Tidore takluk dari Belanda, Kepulauan Raja Ampat menjadi bagian klaim Hindia Belanda</string>
+    <string name="menu_list">List</string>
+    <string name="menu_about">About Me</string>
+    <string name="nama_profil">Mario Claudius</string>
+    <string name="email_profil">mcmario7901@gmail.com</string>
+</resources>
